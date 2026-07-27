@@ -43,15 +43,6 @@
         My long-term aspiration is to specialize in <b>Machine Learning and Artificial Intelligence</b>. I strongly believe that consistent practice and continuous learning are the keys to growth, and I treat every project as an opportunity to push my technical limits.
       </p>
 
-      <p>
-        <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-FF007F?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-7928CA?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Goal-Software%20Engineer-00C9FF?style=flat-square"/>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;"/>
-    </td>
   </tr>
 </table>
 
