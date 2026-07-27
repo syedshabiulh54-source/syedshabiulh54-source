@@ -33,20 +33,21 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🌈 Who Am I?</h3>
-      <p>I'm a <b>Data Science student</b> passionate about writing clean code, solving complex algorithms, and building useful projects.</p>
-      
+      <p>
+        I am a dedicated <b>Data Science student</b> with a deep enthusiasm for software development, analytical problem-solving, and building intelligent digital solutions. My journey revolves around exploring how data and modern code intersect to create impactful real-world applications.
+      </p>
+      <p>
+        Currently, I am actively sharpening my expertise in <b>Python</b>—focusing on object-oriented programming, data structures, and algorithmic logic—while maintaining a strong background in <b>C++ programming</b> and core <b>web technologies</b>.
+      </p>
+      <p>
+        My long-term aspiration is to specialize in <b>Machine Learning and Artificial Intelligence</b>. I strongly believe that consistent practice and continuous learning are the keys to growth, and I treat every project as an opportunity to push my technical limits.
+      </p>
+
       <p>
         <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-FF007F?style=flat-square"/>
         <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-7928CA?style=flat-square"/>
         <img src="https://img.shields.io/badge/Goal-Software%20Engineer-00C9FF?style=flat-square"/>
       </p>
-
-      <ul>
-        <li>🎓 <b>Education:</b> Data Science Student</li>
-        <li>🐍 <b>Main Language:</b> Python (OOP, Logic, Algorithms)</li>
-        <li>💻 <b>Secondary Tech:</b> C++ & Full-Stack Web Basics</li>
-        <li>🧩 <b>Passions:</b> Problem Solving & Interactive Apps</li>
-      </ul>
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;"/>
@@ -187,7 +188,7 @@
 
 <br>
 
-<!-- FOOTER ANIMATION (Matching the top header, flipped) -->
+<!-- FOOTER ANIMATION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,65:00C9FF,100:00F5A0&height=200&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%" />
 </div>
