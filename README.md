@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/01_ABOUT_ME-0B1220?style=for-the-badge&labelColor=14B8A6"/></h2>
+<img src="https://img.shields.io/badge/01_ABOUT_ME-0B1220?style=for-the-badge&labelColor=14B8A6"/>
 </div>
 
 Hello! I'm **Syed Shabi ul Hassan**, a passionate Data Science undergraduate at **Pak-Austria Fachhochschule – Institute of Applied Sciences & Technology (PAF-IAST), Haripur, Pakistan**.
@@ -29,7 +29,9 @@ I am interested in exploring how data can solve real-world problems, support bet
 
 My journey in technology started with programming fundamentals, and I am now expanding my knowledge in Python, data analysis, statistics, and machine learning.
 
-### 🎯 MY GOALS
+<div align="center">
+<img src="https://img.shields.io/badge/MY_GOALS-0B1220?style=for-the-badge&labelColor=3B82F6"/>
+</div>
 
 - Build a strong foundation in Data Science and Artificial Intelligence.
 - Develop practical skills in Python and data analysis.
@@ -43,18 +45,22 @@ My journey in technology started with programming fundamentals, and I am now exp
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/02_TECHNICAL_SKILLS-0B1220?style=for-the-badge&labelColor=3B82F6"/></h2>
+<img src="https://img.shields.io/badge/02_TECHNICAL_SKILLS-0B1220?style=for-the-badge&labelColor=14B8A6"/>
 </div>
 
-### 💻 PROGRAMMING LANGUAGES
+<div align="center">
+<img src="https://img.shields.io/badge/PROGRAMMING_LANGUAGES-0B1220?style=for-the-badge&labelColor=3B82F6"/>
+</div>
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark"/>
 </p>
 
-### 📊 DATA SCIENCE & ANALYSIS
+<div align="center">
+<img src="https://img.shields.io/badge/DATA_SCIENCE_&_ANALYSIS-0B1220?style=for-the-badge&labelColor=8B5CF6"/>
+</div>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
@@ -62,7 +68,9 @@ My journey in technology started with programming fundamentals, and I am now exp
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### 🧠 CORE KNOWLEDGE
+<div align="center">
+<img src="https://img.shields.io/badge/CORE_KNOWLEDGE-0B1220?style=for-the-badge&labelColor=EC4899"/>
+</div>
 
 - Python Programming
 - C++ Programming Fundamentals
@@ -73,9 +81,11 @@ My journey in technology started with programming fundamentals, and I am now exp
 - Data Visualization
 - Machine Learning Fundamentals
 
-### ⚙️ TOOLS & TECHNOLOGIES
+<div align="center">
+<img src="https://img.shields.io/badge/TOOLS_&_TECHNOLOGIES-0B1220?style=for-the-badge&labelColor=F59E0B"/>
+</div>
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,anaconda&theme=dark"/>
 </p>
 
@@ -88,7 +98,7 @@ My journey in technology started with programming fundamentals, and I am now exp
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/03_CURRENTLY_LEARNING-0B1220?style=for-the-badge&labelColor=8B5CF6"/></h2>
+<img src="https://img.shields.io/badge/03_CURRENTLY_LEARNING-0B1220?style=for-the-badge&labelColor=8B5CF6"/>
 </div>
 
 | Area | Learning Focus |
@@ -103,10 +113,12 @@ My journey in technology started with programming fundamentals, and I am now exp
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/04_PROJECTS_&_EXPERIENCE-0B1220?style=for-the-badge&labelColor=14B8A6"/></h2>
+<img src="https://img.shields.io/badge/04_PROJECTS_&_EXPERIENCE-0B1220?style=for-the-badge&labelColor=14B8A6"/>
 </div>
 
-### 🏠 HOMEGUARD AI
+<div align="center">
+<img src="https://img.shields.io/badge/HOMEGUARD_AI-0B1220?style=for-the-badge&labelColor=3B82F6"/>
+</div>
 
 **Academic AI Project**
 
@@ -116,7 +128,9 @@ Working on an AI-based security and monitoring concept involving:
 - Sensor-based classification.
 - Intelligent priority and decision systems.
 
-### 💼 SHAH BUSINESS EMPIRE
+<div align="center">
+<img src="https://img.shields.io/badge/SHAH_BUSINESS_EMPIRE-0B1220?style=for-the-badge&labelColor=8B5CF6"/>
+</div>
 
 **Python & Flask Web Development**
 
@@ -127,7 +141,9 @@ A business management website concept featuring:
 - Database integration.
 - Job listings and team management.
 
-### 📊 DATA SCIENCE PRACTICE
+<div align="center">
+<img src="https://img.shields.io/badge/DATA_SCIENCE_PRACTICE-0B1220?style=for-the-badge&labelColor=EC4899"/>
+</div>
 
 **Learning & Practical Implementation**
 
@@ -140,7 +156,7 @@ A business management website concept featuring:
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/05_GITHUB_STATISTICS-0B1220?style=for-the-badge&labelColor=F59E0B"/></h2>
+<img src="https://img.shields.io/badge/05_GITHUB_STATISTICS-0B1220?style=for-the-badge&labelColor=F59E0B"/>
 </div>
 
 <div align="center">
@@ -156,7 +172,7 @@ A business management website concept featuring:
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/06_EDUCATION-0B1220?style=for-the-badge&labelColor=EC4899"/></h2>
+<img src="https://img.shields.io/badge/06_EDUCATION-0B1220?style=for-the-badge&labelColor=EC4899"/>
 </div>
 
 **Bachelor of Science in Data Science**
@@ -170,9 +186,12 @@ Pak-Austria Fachhochschule – Institute of Applied Sciences & Technology (PAF-I
 ---
 
 <div align="center">
-<h2><img src="https://img.shields.io/badge/07_CONNECT_WITH_ME-0B1220?style=for-the-badge&labelColor=3B82F6"/></h2>
+<img src="https://img.shields.io/badge/07_CONNECT_WITH_ME-0B1220?style=for-the-badge&labelColor=3B82F6"/>
+</div>
 
 I'm always interested in learning, collaborating, sharing ideas, and connecting with people in technology and Data Science.
+
+<div align="center">
 
 <a href="https://github.com/syedshabiulh54-source">
 <img src="https://img.shields.io/badge/GitHub-Follow-0B1220?style=for-the-badge&logo=github"/>
